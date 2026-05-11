@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="9" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-11T00:50:46 EDT" name="ParallelRegistrationSuite" finished-at="2026-05-11T00:51:35 EDT" duration-ms="49332">
+    <groups>
+    </groups>
+    <test started-at="2026-05-11T00:50:46 EDT" name="ChromeTests" finished-at="2026-05-11T00:50:59 EDT" duration-ms="13659">
+      <class name="com.amalw.tests.RegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:46 EDT" name="setUp" finished-at="2026-05-11T00:50:52 EDT" duration-ms="5842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:46 EDT" name="setUp" finished-at="2026-05-11T00:50:49 EDT" duration-ms="3243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:46 EDT" name="setUp" finished-at="2026-05-11T00:50:48 EDT" duration-ms="1982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:46 EDT" name="setUp" finished-at="2026-05-11T00:50:51 EDT" duration-ms="4665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:48 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:50:52 EDT" duration-ms="4516" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Emma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Stone]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CDE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:49 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:50:53 EDT" duration-ms="3685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Doe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:51 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:50:53 EDT" duration-ms="2764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Liam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brown]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[EFG]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:52 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:50:59 EDT" duration-ms="7249" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[GHTG]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pas1s123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expected registration success message, but it was not displayed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expected registration success message, but it was not displayed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at com.amalw.tests.RegistrationTest.testRegistration(RegistrationTest.java:61)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81)
+at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:52 EDT" name="tearDown" finished-at="2026-05-11T00:50:53 EDT" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:53 EDT" name="tearDown" finished-at="2026-05-11T00:50:53 EDT" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:53 EDT" name="tearDown" finished-at="2026-05-11T00:50:54 EDT" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@644abb8f]" started-at="2026-05-11T00:50:59 EDT" name="tearDown" finished-at="2026-05-11T00:50:59 EDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amalw.tests.RegistrationTest -->
+    </test> <!-- ChromeTests -->
+    <test started-at="2026-05-11T00:51:00 EDT" name="FirefoxTests" finished-at="2026-05-11T00:51:21 EDT" duration-ms="21487">
+      <class name="com.amalw.tests.RegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:00 EDT" name="setUp" finished-at="2026-05-11T00:51:13 EDT" duration-ms="13652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:00 EDT" name="setUp" finished-at="2026-05-11T00:51:05 EDT" duration-ms="5493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:00 EDT" name="setUp" finished-at="2026-05-11T00:51:10 EDT" duration-ms="9904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:00 EDT" name="setUp" finished-at="2026-05-11T00:51:02 EDT" duration-ms="2414" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:02 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:04 EDT" duration-ms="1981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Doe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:04 EDT" name="tearDown" finished-at="2026-05-11T00:51:18 EDT" duration-ms="13588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:05 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:08 EDT" duration-ms="2549" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Liam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brown]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[EFG]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:08 EDT" name="tearDown" finished-at="2026-05-11T00:51:16 EDT" duration-ms="8603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:10 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:12 EDT" duration-ms="2427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Emma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Stone]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CDE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:12 EDT" name="tearDown" finished-at="2026-05-11T00:51:15 EDT" duration-ms="3040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:13 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:20 EDT" duration-ms="6810" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[GHTG]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pas1s123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expected registration success message, but it was not displayed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expected registration success message, but it was not displayed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at com.amalw.tests.RegistrationTest.testRegistration(RegistrationTest.java:61)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81)
+at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@67ec8477]" started-at="2026-05-11T00:51:20 EDT" name="tearDown" finished-at="2026-05-11T00:51:21 EDT" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amalw.tests.RegistrationTest -->
+    </test> <!-- FirefoxTests -->
+    <test started-at="2026-05-11T00:51:21 EDT" name="EdgeTests" finished-at="2026-05-11T00:51:35 EDT" duration-ms="13829">
+      <class name="com.amalw.tests.RegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:21 EDT" name="setUp" finished-at="2026-05-11T00:51:27 EDT" duration-ms="5981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:21 EDT" name="setUp" finished-at="2026-05-11T00:51:23 EDT" duration-ms="1415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:21 EDT" name="setUp" finished-at="2026-05-11T00:51:25 EDT" duration-ms="4193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:21 EDT" name="setUp" finished-at="2026-05-11T00:51:24 EDT" duration-ms="2672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:23 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:27 EDT" duration-ms="4915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Emma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Stone]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CDE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:24 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:29 EDT" duration-ms="5325" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Liam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brown]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[EFG]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:25 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:35 EDT" duration-ms="9322" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[GHTG]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pas1s123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expected registration success message, but it was not displayed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expected registration success message, but it was not displayed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at com.amalw.tests.RegistrationTest.testRegistration(RegistrationTest.java:61)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81)
+at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:27 EDT" name="testRegistration" data-provider="registrationData" finished-at="2026-05-11T00:51:30 EDT" duration-ms="3216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Doe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:27 EDT" name="tearDown" finished-at="2026-05-11T00:51:29 EDT" duration-ms="1933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:29 EDT" name="tearDown" finished-at="2026-05-11T00:51:30 EDT" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:30 EDT" name="tearDown" finished-at="2026-05-11T00:51:31 EDT" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amalw.tests.RegistrationTest@4482469c]" started-at="2026-05-11T00:51:35 EDT" name="tearDown" finished-at="2026-05-11T00:51:35 EDT" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amalw.tests.RegistrationTest -->
+    </test> <!-- EdgeTests -->
+  </suite> <!-- ParallelRegistrationSuite -->
+</testng-results>

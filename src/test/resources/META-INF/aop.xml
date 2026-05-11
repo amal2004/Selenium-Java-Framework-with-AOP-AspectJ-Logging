@@ -1,0 +1,22 @@
+<!DOCTYPE aspectj PUBLIC
+"-//AspectJ//DTD//EN"
+"https://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+
+<aspectj>
+
+    <weaver options="-verbose -showWeaveInfo">
+
+        <!-- Weave framework packages -->
+        <include within="com.amalw..*"/>
+
+    </weaver>
+
+    <aspects>
+
+        <!-- Register aspects -->
+        <aspect name="com.amalw.aspects.StepLoggingAspect"/>
+        <aspect name="com.amalw.aspects.FailureLoggingAspect"/>
+
+    </aspects>
+
+</aspectj>
